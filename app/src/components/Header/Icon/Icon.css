@@ -1,0 +1,13 @@
+.icon-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 45px;
+    font-size: 9px;
+    font-weight: bold;
+    padding: 0 1px;
+    gap: 2px;
+}
+
