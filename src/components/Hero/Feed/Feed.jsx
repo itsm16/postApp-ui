@@ -7,7 +7,7 @@ import { LuHandMetal, LuHeart, LuMessageCircle, LuMoreHorizontal, LuShare, LuThu
 const Feed = ({ 
   name = "Gojo Satoru", 
   postImage = image,
-  caption = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio mollitia aperiam distinctio",
+  caption = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio mollitia aperiam, distinctio",
   status = "Don't Worry, I'm the strongest"
  }) => {
   return (

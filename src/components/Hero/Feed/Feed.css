@@ -23,7 +23,7 @@ hr{
   align-self: center;
   width: 95%;
   border-top: 0.5px solid #3a3939;
-  /* margin: 2px 0; */
+  /* margin: 0.5px 0; */
 }
 
 .sender__info {
@@ -43,6 +43,7 @@ hr{
   justify-content: flex-start;
   gap: 10px;
 }
+
 
 .avatar {
   border: 0.5px #3a3939 solid;
@@ -114,7 +115,6 @@ hr{
     gap: 15px;
     align-items: first baseline;
     position: relative;
-    z-index: 1;
     padding: 0 5px;
     height: 10px;
     width: 10px;
@@ -133,7 +133,6 @@ hr{
     position: absolute;
     top: -1px;
     left: -1px;
-    z-index: 2000;
 }
 
 .post__buttons{
