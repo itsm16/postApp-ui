@@ -6,13 +6,10 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/cefd034e-06b7-4358-92c6-fa042c56cfa7" height="600" width="300" >
-
+<img src="https://github.com/user-attachments/assets/5dabd6c5-b014-4692-b783-6a36cff7c16d" height="600" width="300" style="display: inline;">
 <br>
 <br>
 
 ![image](https://github.com/user-attachments/assets/538ff2a2-85e6-4f28-a944-c300242f743b)
 
-<br>
-<br>
 
-![image](https://github.com/user-attachments/assets/5dabd6c5-b014-4692-b783-6a36cff7c16d)
